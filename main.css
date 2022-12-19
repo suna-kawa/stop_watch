@@ -1,0 +1,11 @@
+@charset 'UTF-8';
+
+h3 {
+    padding-left: 3%;
+}
+#timer {
+    padding-left: 4%;
+    padding-bottom: 5%;
+    font-size: 30px;
+}
+
